@@ -14,7 +14,7 @@ This is a website to know about Raspberry Pi
 Mainly focused on CSS 
 ```
 
-* [HTML](https://yb-g-personal.github.io/html/)
+* [HTML](https://yb-g-personal.github.io/HTML/)
 ```markdown
 I am learning HTML in my school! I just wanted to show it to you too! 
 ```
