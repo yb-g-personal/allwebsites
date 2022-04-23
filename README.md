@@ -9,12 +9,12 @@ You can pretty much say that this is my Websites' Main Menu :)
 This is a website to know about Raspberry Pi 
 ```
 
-* [css](yb-g-personal.github.io/css/home)
+* [css](https://yb-g-personal.github.io/css/home)
 ```markdown
 Mainly focused on CSS 
 ```
 
-* [HTML](yb-g-personal.github.io/html/)
+* [HTML](https://yb-g-personal.github.io/html/)
 ```markdown
 I am learning HTML in my school! I just wanted to show it to you too! 
 ```
@@ -24,7 +24,7 @@ I am learning HTML in my school! I just wanted to show it to you too!
 No Description
 ```
 
-* [Blog](yb-g-personal.github.io/blog/)
+* [Blog](https://yb-g-personal.github.io/blog/)
 ```markdown
 My Blog! Made purely by HTML and CSS 
 ```
