@@ -4,7 +4,7 @@ You can pretty much say that this is my Websites' Main Menu :)
 
 ### Websites
 
-* [About Raspberry Pi] (https://yb-g-personal.github.io/about-raspberry-pi/home.html)
+* (https://yb-g-personal.github.io/about-raspberry-pi/home.html) [About Raspberry Pi]
 ```markdown
 This is a website to know about Raspberry Pi 
 ```
